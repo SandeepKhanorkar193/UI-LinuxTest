@@ -1,0 +1,580 @@
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  CommonPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key user.email should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key user.password should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key employee.email should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key employee.password should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key deptName should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key managerName should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key notification.title should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key alertOptionValue should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key alertForDropdown should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key OperatorDropdownValue should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key alertDetailsValue should not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key value should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_navigate_to_NavDashboard :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR DashboardPageTESTS  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_navigate_to_NavDashboard :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_unpin_utilization_tile_from_dashboard_Page :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_unpin_utilization_tile_from_dashboard_Page :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_department_dept_stats_activity_breadcrumb :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_department_dept_stats_activity_breadcrumb :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_department_overview_day_breadcrumb :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_department_overview_day_breadcrumb :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_department_page_details :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_department_page_details :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_department_page_workKPI_drill_line_chart :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_department_page_workKPI_drill_line_chart :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_top_nav_search_under_Dashboard :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_top_nav_search_under_Dashboard :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_bell_icon_not_available_to_normal_user :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_bell_icon_not_available_to_normal_user :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_activity_kpi_widgets :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_activity_kpi_widgets :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_device_activity_analytics_Tabs :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_device_activity_analytics_Tabs :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_edit_unaccounted_time_error :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_edit_unaccounted_time_error :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_verify_calender_and_list_view :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_verify_calender_and_list_view :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_verify_calender_listview :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_verify_calender_listview :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_verify_edit_unaccounted_time :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_verify_edit_unaccounted_time :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_verify_edit_unaccounted_time_save :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_verify_edit_unaccounted_time_save :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_workKPI_drill_line_chart :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_workKPI_drill_line_chart :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_orgactivity_tab_not_available_to_employee :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_orgactivity_tab_not_available_to_employee :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_chartsAndTableShouldBeDisplayedDL :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_chartsAndTableShouldBeDisplayedDL :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_allreportcards :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_allreportcards :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_daily_timeline_report :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_daily_timeline_report :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_daily_timeline_report_table_download :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_daily_timeline_report_table_download :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_employee_timesheet_report :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_employee_timesheet_report :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_manager_individual_workKPI_drill_line_chart :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_manager_individual_workKPI_drill_line_chart :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_manager_myActivity_individual_tab_selected_by_default :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_manager_myActivity_individual_tab_selected_by_default :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_manager_myActivity_team_pin_popup :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_manager_myActivity_team_pin_popup :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_manager_myActivity_team_tab :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_manager_myActivity_team_tab :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR BaseTest  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_manager_team_overview_pin_for_custom_date :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Skipped
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_manager_team_overview_pin_for_custom_date :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - URL : https://qa-sapienceanalytics.auth0.com/login?state=g6Fo2SB3TzJoWGhiX2VnVW1VN0VacVkyNFZkMG44ZUVweTFicqN0aWTZIHNLdnkzSUlJREhwNXY4czVYXzl5LW03dW83eE83aVdWo2NpZNkgWnhCcldpUE56enBqTUEyekplcDhCeEx6OXpRQ21XRG8&client=ZxBrWiPNzzpjMA2zJep8BxLz9zQCmWDo&protocol=oauth2&audience=https%3A%2F%2Fapi.sapienceanalytics.com&redirect_uri=https%3A%2F%2Fportal.qa.lab.us.azure.sapienceanalytics.com%2Fcallback&response_type=id_token%20token&scope=openid%20email%20profile&nonce=18a3f09f9f9441cca091fbca1c34bbcc
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  CommonPage  - Navigated to My Activity
+ERROR BaseTest  - chrome not reachable
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'LAPTOP-EKOVSLBP', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\nkhan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51299}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 233a817355d54f2bbccea0421e53e119
+*** Element info: {Using=xpath, value=//button[@class='sa-portal-header__user']}
+INFO  AssertLogger  - chrome not reachable
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.9.1', revision: '63f7b50', time: '2018-02-07T22:25:02.294Z'
+System info: host: 'LAPTOP-EKOVSLBP', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\nkhan\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51299}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 233a817355d54f2bbccea0421e53e119
+*** Element info: {Using=xpath, value=//button[@class='sa-portal-header__user']} Condition :[false]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : userLogout :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - URL : https://www.google.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR NotificationPageTESTS  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - URL : https://www.google.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
