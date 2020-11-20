@@ -47,6 +47,13 @@ public enum DriverType implements DriverSetup {
             ChromeOptions options = new ChromeOptions();
             options.setExperimentalOption("prefs", chromePrefs);
             options.addArguments("--disable-notifications");
+
+
+	   options.addArguments("--headless");
+	        options.addArguments("window-size=1366,768");
+		options.addArguments("--single-process");
+		options.addArguments("--no-sandbox");
+
 //            options.addArguments("download.default_directory="+System.getProperty("java.io.tmpdir"));
 //            options.addArguments("--test-type");
 //            options.addArguments("--disable-extensions");

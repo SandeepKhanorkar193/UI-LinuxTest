@@ -11,6 +11,7 @@ import org.apache.log4j.Logger;
 import org.testng.SkipException;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
+import org.openqa.selenium.*;
 
 @Listeners({MethodListener.class})
 public class NotificationPageTESTS extends BaseTest {
@@ -23,6 +24,9 @@ public class NotificationPageTESTS extends BaseTest {
         try {
             WebDriverFactory.getDriver().get(Configuration.portalUrl);
             logger.info("URL : " + WebDriverFactory.getDriver().getCurrentUrl());
+
+	    logger.info("ELEMENT : "+ WebDriverFactory.getDriver().findElement(By.xpath(".//*[@id='submitButton']")).getText());
+
         } catch (Exception ex) {
             logger.error(ex.getMessage());
             AppAssert.assertTrue(false, ex.getMessage());

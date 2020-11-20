@@ -578,3 +578,190 @@ INFO  MethodListener  - Result: Passed
 INFO  MethodListener  - ==========================================================================================
 INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
 INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR NotificationPageTESTS  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR NotificationPageTESTS  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR NotificationPageTESTS  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+ERROR NotificationPageTESTS  - 
+INFO  AssertLogger  - Conditionfalse]
+INFO  MethodListener  - Result: Failed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - URL : https://www.google.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - URL : https://adfs.xoriant.com/adfs/ls/?SAMLRequest=fZFPb8IwDMW%2FSpV7mzYdYkSAxMZhSExD0O2wy2RSd0TKny5OJz7%2BStk0uHCK%2FOzfk%2F0yJbCmlYsuHtwWvzqkmBytcSSHxox1wUkPpEk6sEgyKrlbPK%2BlyHLZBh%2B98oZdILcJIMIQtXcsWS1n7EOMBZSjPQDUk3yi7mFcjvclCLzD0QRE3ZS5aFCAaljyhoF6csZ6ox4n6nDlKIKLvZSLPC2KVORVUchSyFH5zpJlf412EAfqEGNLknOoG8qOPugezJS3g8ANcZYs%2FrZ79I46i2GH4VsrfN2u%2F%2FkedRivHEjb1uDpem593RnM2kPLh5rOr0hB0aDW2EBnYkotSza%2F%2BT1oV2v3eTu6%2FXmI5FNVbdLNy65i8%2BnJWw5RhPmNBaf8cvBcXX%2F6%2FAc%3D&RelayState=https%3A%2F%2Fxornet.xoriant.com%2Fsaml_login%3Fdestination%3D
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  NotificationPageTESTS  - URL : https://adfs.xoriant.com/adfs/ls/?SAMLRequest=fZHNbsIwEIRfJfI9seOEoFiARMuhSFRFkPbQS%2BUkpliKf%2Bq1Kx6%2FJrQqXDhZO7vfaHc8A64Gy5bBH%2FVOfAUBPjmpQQMbG3MUnGaGgwSmuRLAfMf2y%2BcNoxlh1hlvOjOgK%2BQ%2BwQGE89JolKxXc%2FTR0ZpWh2nVd1VBW07IZNIWJaV11RftpCzLdkrqomxFhZI34SCScxSNIg4QxFqD59pHiVCS5nlKSZNTlteM1u8oWcVrpOZ%2BpI7eW2AY8%2F4A2ck4GcGsM2oU8AAYJcu%2F7R6NhqCE2wv3LTvxutv88xHVwt84gFR2EOfrsTJ9GERmjxaPNVxemvIORrUXBx4Gn4JFyfY3vwepe6k%2F70fXXoaAPTXNNt2%2B7Bu0mJ292RiFW9xZcIavBy%2FV7acvfgA%3D&RelayState=https%3A%2F%2Fxornet.xoriant.com%2Fsaml_login%3Fdestination%3D
+INFO  NotificationPageTESTS  - ELEMENT : Sign in
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_google :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================

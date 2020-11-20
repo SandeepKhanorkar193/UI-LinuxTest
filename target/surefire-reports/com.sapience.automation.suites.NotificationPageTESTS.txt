@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.sapience.automation.suites.NotificationPageTESTS
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.81 s - in com.sapience.automation.suites.NotificationPageTESTS
